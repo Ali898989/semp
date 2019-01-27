@@ -14,6 +14,11 @@ y='\033[1;33m'
 n=install
 
 
+rm -rf $HOME/payload5.zip
+rm -rf $HOME/payload5
+rm -rf $HOME/../usr/bin/payload.sh
+rm -rf $HOME/../usr/bin/payload
+rm -rf $HOME/../usr/bin/setup5.sh
 
 
 cd $HOME/payload5

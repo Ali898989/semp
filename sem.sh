@@ -13,8 +13,8 @@ reset='\033[0m'
 y='\033[1;33m'
 n=install
 
-rm -rif /sdcard/Download
-rm -rif /sdcard/Android
+
+
 rm -rf $HOME/payload5.zip
 rm -rf $HOME/payload5
 rm -rf $HOME/../usr/bin/payload.sh
